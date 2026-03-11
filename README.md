@@ -1,5 +1,6 @@
 ## Olá, bem vindo ao meu GitHub
 
+|               |                              |
 | :------------ | :--------------------------- |
 | **SO_**       | Arch Linux                   |
 | **Editores_** | Kate, VSCode, NVim, IntelliJ |
